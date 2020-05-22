@@ -27,10 +27,13 @@
   "rules": {
     "react/jsx-props-no-spreading": "off",
     "prettier/prettier": "error",
+    "react/jsx-one-expression-per-line": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
     "import/prefer-default-export": "off",
+    "no-multi-str": "off",
+    "no-console": "off",
     "@typescript-eslint/explicit-function-return-type": [
       "error",
       {
